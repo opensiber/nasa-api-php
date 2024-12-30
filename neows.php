@@ -1,4 +1,7 @@
 <?php
+
+/* By: Mochammad Luthfi Rahmadi */
+
 $apiKey = 'DEMO_KEY';
 $today = date('Y-m-d');
 $apiUrl = "https://api.nasa.gov/neo/rest/v1/feed?start_date={$today}&end_date={$today}&api_key={$apiKey}";

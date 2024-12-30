@@ -1,5 +1,7 @@
 <?php
 
+/* By: Mochammad Luthfi Rahmadi */
+
 $apiKey = 'DEMO_KEY';
 $apiUrl = "https://api.nasa.gov/insight_weather/?api_key={$apiKey}&feedtype=json&ver=1.0";
 

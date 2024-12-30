@@ -1,4 +1,7 @@
 <?php
+
+/* By: Mochammad Luthfi Rahmadi */
+
 $apiKey = 'DEMO_KEY';
 $apiUrl = "https://api.nasa.gov/planetary/apod?api_key={$apiKey}";
 

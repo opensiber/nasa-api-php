@@ -17,6 +17,9 @@
         </nav>
         <div class="bg-white p-6 rounded-lg shadow-md">
             <?php
+			
+			/* By: Mochammad Luthfi Rahmadi */
+			
             if (isset($_GET['page'])) {
                 $page = $_GET['page'];
                 if (file_exists($page . '.php')) {
